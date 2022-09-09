@@ -1,6 +1,6 @@
 # Week 1 Lecture Notes September 9 2022
 
-## Project Launch and Course Expectations
+## Project Launch and Course Expectations 🚀
 
 - Course is async for content and sync for support
 - Content is already posted
@@ -12,3 +12,13 @@
 - Project Schedule: see [schedule](./SYDE461-F2022-Course%20Schedule.pdf)
 - Goal for 4A is to have a functional testable prototype. robustness is demonstrated in 4B.
 - Expectations: 10-12 hours/week per student. Cumulative 48 hours of work per team.
+
+## Why do an FYDP❓
+
+- Take ownership over a project and it's process
+- Apply some of what we have learned from our degree
+- Expectation that we do technical engineering work
+- Advanced-level course work is applied
+- We want to _graduate_ and _become_ and engineer
+- Also we want to have some fun (LOL)
+- Need CEAB requirements to be met
