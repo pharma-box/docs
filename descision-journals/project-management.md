@@ -29,6 +29,8 @@ The FYDP team has setup a [Notion Page](https://www.notion.so/FYDP-559650aae9414
 
 The FYDP team has setup a google drive where we store deliverable documentation, presentations or any other deliverable that would require collaboration and multiple authors. Consider the project description. This is best written in Google Docs as it facilitates collaboration in real time.
 
+- [Link to Google Drive](https://drive.google.com/drive/folders/1MrEMyx-WuCB6FimR65R9kaUEwUZUXNhH?usp=sharing)
+
 **Reasoning**: Google Drive ensure safety of documents as they are stored on Google's cloud. It also allows multiple project members to work on the same document at the same time. It features a much more rich text editing, and analysis toolset compared to Notion.
 
 ---
