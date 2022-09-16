@@ -1,5 +1,9 @@
 # Week 1 Lecture Notes September 9 2022
 
+## Meeting Notes
+
+[Meeting: September 9th 2022](./sept-9-2022-meeting.md)
+
 ## Project Launch and Course Expectations 🚀
 
 - Course is async for content and sync for support
