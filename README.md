@@ -13,6 +13,7 @@ This is where we document the decisions that we make as a team, as well as write
 
 - [Deliverables](./deliverables/README.md)
 - [Decision Journals](./descision-journals/README.md)
+- [Documents](./documents/README.md)
 
 ## Team members 👽👽👽👽
 
