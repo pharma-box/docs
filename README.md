@@ -11,7 +11,7 @@ This is where we document the decisions that we make as a team, as well as write
 
 ## Whats Here
 
-- [Deliverables](./deliverables/README.md)
+- [Deliverable Instructions](./deliverable-instructions/README.md)
 - [Decision Journals](./descision-journals/README.md)
 - [Documents](./documents/README.md)
 
