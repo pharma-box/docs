@@ -1,4 +1,4 @@
-# Week 1 Lecture Notes September 9 2022
+# Week 1
 
 ## Meeting Notes
 
