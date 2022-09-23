@@ -12,6 +12,7 @@ FYDP project documentation
 - [Week 2 Documentation 🛼](./week-2/README.md)
 - [Week 3 Documentation 🐸](./week-3/README.md)
 
-### Agreements and Contracts
+### Documents
 
 - [Agreements and Contracts 📝](./agreements/README.md)
+- [Project Description](./project-description.md)
