@@ -15,6 +15,7 @@ Joshua Wilkinson, 20765298
 Friday, September 23rd, 2022.
 
 - [Project Description](#project-description)
+  - [I Introduction](#i-introduction)
   - [II Situation of Concern](#ii-situation-of-concern)
   - [III Problem Focus](#iii-problem-focus)
   - [IV Needs Assessment and Prior Art](#iv-needs-assessment-and-prior-art)
@@ -23,6 +24,8 @@ Friday, September 23rd, 2022.
   - [VII Systems Design Engineering Approach](#vii-systems-design-engineering-approach)
   - [VIII Resource Management](#viii-resource-management)
   - [IX References](#ix-references)
+
+## I Introduction
 
 Waiting is a near-universal experience in our society. Whether it be traffic or waiting at the doctor’s office, it is one of the most frustrating civil experiences [1]. Pharmacies are no exception. Individuals must often wait for long periods to pick up their prescriptions. In a survey conducted by a pharmacy in Phoenix Arizona, over 60% of customers estimated their wait times in their community pharmacies to be over 20 minutes [2]. These wait times can cause great frustration as a task that people plan to occupy a few minutes of their day can completely disrupt their, and others’ schedules.
 
