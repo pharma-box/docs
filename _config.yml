@@ -2,6 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 logo: '/assets/pharma_box_logo.png'
 url: 'https://pharma-box.github.io'
 
+color_scheme: default
 back_to_top: true
 back_to_top_text: 'Back to top'
 
