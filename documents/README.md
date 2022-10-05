@@ -17,3 +17,4 @@ FYDP project documentation
 - [Agreements and Contracts 📝](./agreements/README.md)
 - [Project Description](./project-description.md)
 - [User Personas](./user-personas/README.md)
+- [User Surveys](./user-surveys/README.md)
