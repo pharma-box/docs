@@ -1,5 +1,3 @@
-<img src="../assets/background.png">
-
 # Documents
 
 FYDP project documentation
@@ -11,7 +9,8 @@ FYDP project documentation
 - [Week 1 Documentation ☕️](./week-1/README.md)
 - [Week 2 Documentation 🛼](./week-2/README.md)
 - [Week 3 Documentation 🐸](./week-3/README.md)
-- [Week 4 Documentation 🐸](./week-4/README.md)
+- [Week 4 Documentation 🦒](./week-4/README.md)
+- [Week 5 Documentation 🐐](./week-5/README.md)
 
 ### Documents
 
