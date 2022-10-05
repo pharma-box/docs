@@ -17,17 +17,17 @@ Note Taker: Hussein Nagri
 ### 2.2 Come up with a project name
 
 - Suggestions:
-  - Med dash
-  - Medscoot
-  - Pharma dash
-  - PharmaBox
+  - `Med dash`
+  - `Medscoot`
+  - `Pharma dash`
+  - `PharmaBox`
 - Eliminated all .dash because it seems like delivery
 - Same with scoot, seems like a delivery thing
 - Went with PharmaBox
 
 ### 2.3 Surveys and User Interviews
 
-- We decided that we would send our likert scale style surveys first.
+- We decided that we would send our `likert` scale style surveys first.
 - After obtaining results, we will analyze them and see what questions we should ask in user interviews
 - 2 surveys must be created:
   - Patient side
