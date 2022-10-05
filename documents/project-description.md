@@ -4,13 +4,13 @@ SYDE 461 FYDP, SYDE 2023
 
 Team 21
 
-Sammy Robens-Paradise, 20709541
+Sammy Robens-Paradise
 
-Hussein Nagri, 20784178
+Hussein Nagri
 
-Aliya Rajwani, 20780325
+Aliya Rajwani
 
-Joshua Wilkinson, 20765298
+Joshua Wilkinson
 
 Friday, September 23rd, 2022.
 
