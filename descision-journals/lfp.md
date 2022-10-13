@@ -30,3 +30,5 @@ We also need to discuss:
 The general consensus is that the frontend will be written with `React` and embedded in a mobile application with `React Native` as needed. Right how `Next.js` is a leading candidate for the development since it has `API` routing an webpage routing built in. It also renders on the server making it very performant. However this is still up for discussion. The backend will likely be written in `Node.js` because of its simple API quick ramp-up time.
 
 Hardware code is likely to be `Python` and utilize a `Raspberry PI` although exact hardware specifications are still in progress.
+
+Look into what ideal user flows look like for pharmacists and patients. What are our Key Performance Metrics? How do we want to minimize friction and make the interactions as quick as possible in order to incentivize the usage of Pharmabox? What roadblocks and challenges are preventing us from doing that?
