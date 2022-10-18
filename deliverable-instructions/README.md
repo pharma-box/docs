@@ -6,7 +6,7 @@ Deliverables for FYDP 2022
 - [ ] [Accountability Log](./SYDE461-F2022-00-Eng%20Accountability%20Log%20Instructions.pdf)
 - [x] [Project Advisor Agreement Form](./SYDE461-F2022-01-Project%20Advisor%20Agreement%20Form.pdf)
 - [x] [Team Contract](./SYDE461-F2022-01-Team%20Contract%20Instructions.pdf)
-- [ ] [Project Description](./SYDE461-F2022-02-Project%20Description.pdf)
+- [x] [Project Description](./SYDE461-F2022-02-Project%20Description.pdf)
 - [ ] [Conference Paper](./SYDE461-F2022-03-Project%20Analysis%20Conference%20Paper%20Assessment.pdf)
 - [ ] [Conference Paper Template](./SYDE461-F2022-03-Project%20Analysis%20Conference%20Paper%20Template%20and%20Rubric.pdf)
 - [ ] [Individual Contributions](./SYDE461-F2022-04-Individual%20Contribution%20Document.pdf)
