@@ -13,10 +13,14 @@ FYDP project documentation
 - [Week 5 Documentation 🐐](./week-5/README.md)
 - [week 6 Documentation 🐝](./week-6/README.md)
 - [week 7 Documentation 🦄](./week-7/README.md)
+- [Week 8 Documentation 🐄](./week-8/README.md)
+- [Week 9 Documentation 🐢](./week-9/README.md)
+- [Week 10 Documentation 🐍](./week-10/README.md)
 
 ### Documents
 
 - [Agreements and Contracts 📝](./agreements/README.md)
-- [Project Description](./project-description.md)
-- [User Personas](./user-personas/README.md)
-- [User Surveys](./user-surveys/README.md)
+- [Project Description 💌](./project-description.md)
+- [Conference Paper 📄](./conference-paper.md)
+- [User Personas 👽](./user-personas/README.md)
+- [User Surveys 📊](./user-surveys/README.md)
