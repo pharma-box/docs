@@ -16,6 +16,7 @@ FYDP project documentation
 - [Week 8 Documentation 🐄](./week-8/README.md)
 - [Week 9 Documentation 🐢](./week-9/README.md)
 - [Week 10 Documentation 🐍](./week-10/README.md)
+- [Week 11 Documentation 🦋](./week-11/README.md)
 
 ### Documents
 
