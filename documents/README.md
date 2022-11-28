@@ -24,3 +24,4 @@ FYDP project documentation
 - [Conference Paper 📄](./conference-paper.md)
 - [User Personas 👽](./user-personas/README.md)
 - [User Surveys 📊](./user-surveys/README.md)
+- [LFP Slide Deck 📖](./FYDP%20LFP%20Slide%20Deck.pdf)
