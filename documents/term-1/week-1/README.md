@@ -1,4 +1,4 @@
-# Week 1
+# Fall 2022, Week 1
 
 ## Meeting Notes
 

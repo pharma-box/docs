@@ -1,4 +1,4 @@
-# Week 7
+# Fall 2022, Week 7
 
 ## Meeting Notes
 
