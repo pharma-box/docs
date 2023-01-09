@@ -5,11 +5,11 @@
 
 This is where we document the decisions that we make as a team, as well as write documentation, collaborative assignments and resources and keep helpful information. If you need to find something FYDP, its probably in this repository
 
-**[Read out white paper](./documents/project-description.md)**
+**[Read our white paper](./documents/project-description.md)**
 
 **[Visit Application](https://pharmabox.vercel.app)**
 
-- [Schedule 🗓](https://learn.uwaterloo.ca/d2l/le/content/841590/viewContent/4507041/View)
+- [Schedule 🗓](https://learn.uwaterloo.ca/d2l/le/content/871936/viewContent/4743202/View)
 - [Google Share Drive 🚍](https://drive.google.com/drive/folders/1MrEMyx-WuCB6FimR65R9kaUEwUZUXNhH?usp=sharing)
 - [Course Info 🏫](https://learn.uwaterloo.ca/d2l/home/841590)
 - [Science 🧬](https://pharma-box.github.io/science/)
