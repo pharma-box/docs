@@ -1,4 +1,4 @@
-# Week 3
+# Fall 2022, Week 3
 
 ## Meeting Notes
 

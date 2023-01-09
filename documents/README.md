@@ -22,6 +22,9 @@ FYDP project documentation
 
 ### Term 2
 
+- [Week 1 Documentation 🪲](./term-2/week-1/README.md)
+- [Week 2 Documentation 🐡](./term-2/week-2/README.md)
+
 ### Documents
 
 - [Agreements and Contracts 📝](./agreements/README.md)

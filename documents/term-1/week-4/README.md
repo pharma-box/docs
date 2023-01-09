@@ -1,4 +1,4 @@
-# Week 4
+# Fall 2022, Week 4
 
 ## Meeting Notes
 

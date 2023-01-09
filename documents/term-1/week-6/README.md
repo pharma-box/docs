@@ -1,4 +1,4 @@
-# Week 6
+# Fall 2022, Week 6
 
 ## Meeting Notes
 
