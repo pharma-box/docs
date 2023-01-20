@@ -29,6 +29,7 @@ FYDP project documentation
 
 - [Agreements and Contracts 📝](./agreements/README.md)
 - [Project Description 💌](./project-description.md)
+- [Project Plan Update Memo 🔖](./project-plan-update-memo.md)
 - [Conference Paper 📄](./conference-paper.md)
 - [User Personas 👽](./user-personas/README.md)
 - [User Surveys 📊](./user-surveys/README.md)
