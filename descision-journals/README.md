@@ -7,3 +7,4 @@ Decision journals are used to keep track of the various decisions that team memb
 - [Choosing a Problem](./choosing-a-problem.md)
 - [Project Management](./project-management.md)
 - [Low Fidelity Prototype](lfp.md)
+- [Notification System Proposal](./notification-system-proposal.md)
